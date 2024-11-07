@@ -59,14 +59,13 @@ This dataset provides insights into the sales pattern of 20 customers, it includ
 6. Average Revenue by Metrics: Average revenue by region and subscription type shows consistent levels across categories, with slightly higher averages for Basic and Premium subscriptions.
 
 ## Conclusions
-1. High Churn Rate: The high percentage of canceled subscriptions suggests there may be issues with customer retention.
+1. High Cancellation Rate: The high percentage of canceled subscriptions suggests there may be issues with customer retention.
 2. Popularity of Basic Subscription: The Basic plan is the most popular, which may indicate that customers prefer a more affordable option with essential features.
 3. Stable Regional Distribution: All regions contribute equally, indicating a well-established customer base across different areas.
-- **Revenue Peaks in Specific Months: The fluctuations in monthly revenue could be due to seasonal trends, promotional activities, or other external factors.
+4. Revenue Peaks in Specific Months: The fluctuations in monthly revenue could be due to seasonal trends, promotional activities, or other external factors.
 
-### Recommendations:
-1. **Customer Retention Strategy**: Investigate the causes of the high churn rate and consider implementing strategies like loyalty programs, special offers, or improved customer support to reduce cancellations.
-2. **Upselling Opportunities**: Since the Basic plan is the most popular, consider creating upsell offers to encourage customers to switch to Premium or Standard plans by highlighting added benefits.
-3. **Analyze Revenue Peaks**: Study the reasons behind monthly revenue peaks and consider using similar strategies during lower-performing months to stabilize revenue across the year.
-4. **Customer Segmentation for Targeted Marketing**: Identify high-revenue customers and tailor marketing or engagement efforts to retain them, as they play a significant role in overall revenue.
-5. **Subscription Improvement**: Enhance the Basic plan with additional, low-cost features to increase its value proposition while maintaining affordability, potentially increasing customer satisfaction and retention.
+## Recommendations
+1. Customer Retention Strategy: Investigate the causes of the high cancellation rate and consider implementing strategies like loyalty programs, special offers, or improved customer support to reduce cancellations.
+2. Upselling Opportunities: Since the Basic plan is the most popular, consider creating upsell offers to encourage customers to switch to Premium or Standard plans by highlighting added benefits.
+3. Customer Segmentation for Targeted Marketing: Identify high-revenue customers and tailor marketing or engagement efforts to retain them, as they play a significant role in overall revenue.
+4. Subscription Improvement: Enhance the Basic plan with additional, low-cost features to increase its value proposition while maintaining affordability, potentially increasing customer satisfaction and retention.
